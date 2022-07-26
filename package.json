@@ -1,0 +1,48 @@
+{
+  "name": "theme-sweet-cupcake",
+  "version": "1.0.0",
+  "displayName": "Sweet Cupcake Theme",
+  "description": "Colorful and Pink Dark Theme",
+  "publisher": "samordakm",
+  "license": "MIT",
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samordakm/sweet-cupcake.git"
+  },
+  "bugs": {
+    "url": "https://github.com/samordakm/sweet-cupcake/issues"
+  },
+  "engines": {
+    "vscode": "^1.69.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Pastel",
+    "Pink",
+    "Purple",
+    "Girl",
+    "Sweet",
+    "Candy",
+    "Dark",
+    "Color",
+    "Colorful",
+    "Cute"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sweet Cupcake",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sweet-cupcake-color-theme.json"
+      }
+    ]
+  },
+  "__metadata": {
+    "id": "a7199c7a-a7ce-4f6d-8ebc-3f993fcf6c00",
+    "publisherDisplayName": "samordakm",
+    "publisherId": "0a5b255f-80bd-4350-813e-b2e8a1c6714b"
+  }
+}
